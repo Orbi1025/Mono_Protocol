@@ -1,0 +1,267 @@
+.Explanation_explanation__Qeh8k {
+  padding: 120px 0;
+}
+.Explanation_explanation__Qeh8k .Explanation_container__Bmhho {
+  padding: 0 16px;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_sectionTitle__ocleg {
+  font-family: Hagrid;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 140%;
+  color: #fff;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_sectionTitle__ocleg
+  > label {
+  color: #2cfdaa;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_sectionTitle__ocleg
+  > span {
+  color: hsla(0, 0%, 100%, 0.2);
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-repeat: no-repeat;
+  background-size: 0 100%;
+  background-image: linear-gradient(90deg, #ffffff, #ffffff);
+  animation-name: Explanation_scrollReveal__Qlhvh;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+  animation-range-start: cover 0;
+  animation-range-end: cover 50%;
+  animation-timeline: view(y);
+}
+@keyframes Explanation_scrollReveal__Qlhvh {
+  to {
+    background-size: 100% 100%;
+  }
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_sectionTitle__ocleg:before {
+  content: "";
+  display: inline-block;
+  width: 370px;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_sectionTitle__ocleg
+  img {
+  margin-bottom: -15px;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t {
+  flex: 1 1;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding-top: 32px;
+  background-color: #262626;
+  color: #fff;
+  border-radius: 16px;
+  background-size: 100% auto;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  transition: all 0.3s ease;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t
+  .Explanation_cardTitle__IzzYh {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.16px;
+  margin: 0 auto;
+  border-radius: 60px;
+  border: 1px solid #3d3d3d;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t
+  .Explanation_cardDescription__pqm3T {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.2px;
+  text-align: center;
+  padding: 0 24px;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t
+  .Explanation_cardImage__BWAqq {
+  width: 100%;
+  height: 430px;
+  background-size: 100% auto;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t
+  .Explanation_cardImage__BWAqq
+  img {
+  object-fit: cover;
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t:first-child {
+  filter: grayscale(100%);
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t:first-child:hover {
+  filter: grayscale(0);
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t:nth-child(2) {
+  filter: grayscale(100%);
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t:nth-child(2):hover {
+  filter: grayscale(0);
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t:nth-child(3) {
+  filter: grayscale(100%);
+}
+.Explanation_explanation__Qeh8k
+  .Explanation_container__Bmhho
+  .Explanation_cards__vCZNi
+  .Explanation_card__BGw9t:nth-child(3):hover {
+  filter: grayscale(0);
+}
+@media screen and (max-width: 900px) {
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi {
+    flex-direction: column;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi
+    .Explanation_card__BGw9t
+    .Explanation_cardImage__BWAqq {
+    height: 370px;
+    background-size: contain;
+  }
+}
+@media screen and (max-width: 768px) {
+  .Explanation_explanation__Qeh8k {
+    padding: 64px 16px;
+  }
+  .Explanation_explanation__Qeh8k .Explanation_container__Bmhho {
+    gap: 24px;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_sectionTitle__ocleg {
+    font-family: Hagrid;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 140%;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_sectionTitle__ocleg:before {
+    display: none;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_sectionTitle__ocleg
+    img {
+    width: 32px;
+    height: 32px;
+    margin-bottom: -5px;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi {
+    flex-direction: column;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi
+    .Explanation_card__BGw9t {
+    padding: 24px 0 0;
+    gap: 16px;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi
+    .Explanation_card__BGw9t.Explanation_visible__GlTCJ {
+    filter: grayscale(0);
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi
+    .Explanation_card__BGw9t
+    .Explanation_cardTitle__IzzYh {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 140%;
+    letter-spacing: -0.14px;
+    padding: 8px 16px;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi
+    .Explanation_card__BGw9t
+    .Explanation_cardDescription__pqm3T {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 140%;
+    letter-spacing: -0.18px;
+    padding: 0 24px;
+  }
+  .Explanation_explanation__Qeh8k
+    .Explanation_container__Bmhho
+    .Explanation_cards__vCZNi
+    .Explanation_card__BGw9t
+    .Explanation_cardImage__BWAqq {
+    height: 400px;
+    background-size: cover;
+  }
+}

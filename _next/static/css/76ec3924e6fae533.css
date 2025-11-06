@@ -1,0 +1,601 @@
+.Roadmap_roadmap__GVdU1 {
+  padding: 80px 16px 100px;
+}
+.Roadmap_roadmap__GVdU1 .Roadmap_roadmap_container__WRrkv {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_header___kbHS {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_header___kbHS
+  h2 {
+  font-family: Hagrid;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 140%;
+  color: #fff;
+  text-align: center;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_header___kbHS
+  p {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: -0.18px;
+  color: #d1d1d1;
+  text-align: center;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_left__CHpEj,
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_right__556bP {
+  cursor: pointer;
+  padding: 16px;
+  border-radius: 100px;
+  background: #262626;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  transition: all 0.3s ease;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_left__CHpEj:hover,
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_right__556bP:hover {
+  background: #0d606c;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_left__CHpEj.Roadmap_disabled__Gcfry,
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_right__556bP.Roadmap_disabled__Gcfry {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_left__CHpEj.Roadmap_disabled__Gcfry:hover,
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_buttons__GtnVL
+  .Roadmap_roadmap_buttons_right__556bP.Roadmap_disabled__Gcfry:hover {
+  background: #262626;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_ {
+  display: flex;
+  gap: 24px;
+  width: calc(200% + 24px);
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item__rbZ_v {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: calc(50% - 12px);
+  padding: 40px 48px;
+  border-radius: 24px;
+  max-width: 588px;
+  width: 100%;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item__rbZ_v.Roadmap_ongoing__PEaMR {
+  background: #014751;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item__rbZ_v.Roadmap_coming_soon__FsJ6D {
+  background: #262626;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item__rbZ_v.Roadmap_done__qVler {
+  background: #002a31;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_top_line__KC2ex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 32px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_top_line__KC2ex
+  .Roadmap_date__qktpF {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.18px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_top_line__KC2ex
+  .Roadmap_status__oxG0g {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: -0.16px;
+  text-transform: uppercase;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_top_line__KC2ex
+  .Roadmap_status__oxG0g.Roadmap_ongoing__PEaMR {
+  color: #1e1e1e;
+  background: #fff;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_top_line__KC2ex
+  .Roadmap_status__oxG0g.Roadmap_coming_soon__FsJ6D {
+  color: #b0b0b0;
+  background: #3d3d3d;
+  color: #d1d1d1;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_top_line__KC2ex
+  .Roadmap_status__oxG0g.Roadmap_done__qVler {
+  color: #1e1e1e;
+  background: #07ebec;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_title__ZdQzC {
+  font-family: Hagrid;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 140%;
+  color: #fff;
+  margin-bottom: 24px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_description__gpy80 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_description__gpy80
+  .Roadmap_text__CoMRl {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.Roadmap_roadmap__GVdU1
+  .Roadmap_roadmap_container__WRrkv
+  .Roadmap_roadmap_content__ueMxY
+  .Roadmap_roadmap_content_items__folBy
+  .Roadmap_roadmap_content_wrapper__Mk6K_
+  .Roadmap_roadmap_content_item_description__gpy80
+  .Roadmap_text__CoMRl
+  p {
+  color: #fff;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.14px;
+  position: relative;
+  max-width: 420px;
+}
+@media screen and (max-width: 768px) {
+  .Roadmap_roadmap__GVdU1 {
+    padding: 64px 16px;
+  }
+  .Roadmap_roadmap__GVdU1 .Roadmap_roadmap_container__WRrkv {
+    gap: 24px;
+  }
+  .Roadmap_roadmap__GVdU1
+    .Roadmap_roadmap_container__WRrkv
+    .Roadmap_roadmap_header___kbHS
+    h2 {
+    font-family: Hagrid;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 140%;
+  }
+  .Roadmap_roadmap__GVdU1
+    .Roadmap_roadmap_container__WRrkv
+    .Roadmap_roadmap_content__ueMxY {
+    gap: 24px;
+  }
+  .Roadmap_roadmap__GVdU1
+    .Roadmap_roadmap_container__WRrkv
+    .Roadmap_roadmap_content__ueMxY
+    .Roadmap_roadmap_content_items__folBy
+    .Roadmap_roadmap_content_wrapper__Mk6K_
+    .Roadmap_roadmap_content_item__rbZ_v {
+    padding: 16px;
+  }
+}
+.TokenUtility_tokenUtility__C3tjK {
+  padding: 120px 16px;
+}
+.TokenUtility_tokenUtility__C3tjK .TokenUtility_tokenUtility_container__kHSgA {
+  width: min(1200px, 100%);
+  margin: 0 auto;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_header__jXQqt {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_header__jXQqt
+  h2 {
+  font-family: Hagrid;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 140%;
+  color: #fff;
+  text-align: center;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  margin-top: 64px;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 58px;
+  width: 100%;
+  color: #fff;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20:nth-child(2) {
+  flex-direction: row-reverse;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20
+  .TokenUtility_tokenUtility_image__NG2CJ {
+  position: relative;
+  min-width: 508px;
+  min-height: 508px;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20
+  .TokenUtility_tokenUtility_image__NG2CJ
+  img {
+  object-fit: contain;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20
+  .TokenUtility_tokenUtility_item_content__zVzrn {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+  animation-name: TokenUtility_appearCaseItem__23xHW;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-timeline: view(y);
+  animation-range-start: 0;
+  animation-range-end: 20vh;
+}
+@keyframes TokenUtility_appearCaseItem__23xHW {
+  0% {
+    gap: 32px;
+    opacity: 0;
+  }
+  to {
+    gap: 16px;
+    opacity: 1;
+  }
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20
+  .TokenUtility_tokenUtility_item_content__zVzrn
+  label {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.16px;
+  color: #fff;
+  padding: 10px 24px;
+  border-radius: 60px;
+  border: 1px solid #3d3d3d;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20
+  .TokenUtility_tokenUtility_item_content__zVzrn
+  h3 {
+  font-family: Hagrid;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 140%;
+  color: #fff;
+  white-space: pre-line;
+}
+.TokenUtility_tokenUtility__C3tjK
+  .TokenUtility_tokenUtility_container__kHSgA
+  .TokenUtility_tokenUtility_content__CgGe2
+  .TokenUtility_tokenUtility_item__OCf20
+  .TokenUtility_tokenUtility_item_content__zVzrn
+  p {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: -0.18px;
+  color: #d1d1d1;
+  white-space: pre-line;
+}
+@media screen and (max-width: 1000px) {
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA {
+    gap: 40px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2 {
+    gap: 32px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20 {
+    flex-direction: column-reverse;
+    gap: 32px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20:nth-child(2) {
+    flex-direction: column-reverse;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_image__NG2CJ {
+    width: 100%;
+    min-width: unset;
+    min-height: 400px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_item_content__zVzrn {
+    gap: 12px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_item_content__zVzrn
+    h3 {
+    font-family: Hagrid;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 140%;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_item_content__zVzrn
+    p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: -0.16px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .TokenUtility_tokenUtility__C3tjK {
+    padding: 64px 16px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA {
+    gap: 40px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_header__jXQqt
+    h2 {
+    font-family: Hagrid;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 140%;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2 {
+    gap: 32px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20 {
+    flex-direction: column-reverse;
+    gap: 32px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20:nth-child(2) {
+    flex-direction: column-reverse;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_image__NG2CJ {
+    width: 100%;
+    min-width: unset;
+    min-height: 400px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_item_content__zVzrn {
+    gap: 12px;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_item_content__zVzrn
+    h3 {
+    font-family: Hagrid;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 140%;
+    white-space: unset;
+  }
+  .TokenUtility_tokenUtility__C3tjK
+    .TokenUtility_tokenUtility_container__kHSgA
+    .TokenUtility_tokenUtility_content__CgGe2
+    .TokenUtility_tokenUtility_item__OCf20
+    .TokenUtility_tokenUtility_item_content__zVzrn
+    p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: -0.16px;
+    white-space: unset;
+  }
+}
