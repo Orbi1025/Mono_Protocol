@@ -641,13 +641,13 @@
                             children: [
                               (0, a.jsx)("li", {
                                 children: (0, a.jsx)(v.default, {
-                                  href: "https://x.com/mono_protocol",
+                                  href: "https://x.com/MonoProtocoleth",
                                   children: "X",
                                 }),
                               }),
                               (0, a.jsx)("li", {
                                 children: (0, a.jsx)(v.default, {
-                                  href: "https://t.me/monoprotocol_official",
+                                  href: "https://t.me/MonoProtocoleth",
                                   children: "Telegram",
                                 }),
                               }),
