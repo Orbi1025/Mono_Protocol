@@ -355,13 +355,13 @@
                   (0, a.jsxs)("div", {
                     className: s().tokenomics_supply_field,
                     children: [
-                      "0xcomingsoon",
+                      "0xc7313ade1f0febb9dec29e48d5302e679146c676",
                       (0, a.jsx)("button", {
                         className: s().tokenomics_supply_field_button,
                         onClick: () => {
                           navigator.clipboard
                             .writeText(
-                              "0xcomingsoon"
+                              "0xc7313ade1f0febb9dec29e48d5302e679146c676"
                             )
                             .catch((e) => {
                               console.error("Failed to copy text: ", e);

@@ -429,7 +429,7 @@
                       }),
                       (0, a.jsx)("li", {
                         children: (0, a.jsx)(v.default, {
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xc7313ade1f0febb9dec29e48d5302e679146c676",
                           onClick: () => n(!1),
                           className: b().rewardHubLink,
                           children: (0, a.jsxs)("div", {
@@ -476,9 +476,9 @@
                                 onClick: r,
                                 children: "",
                               }),
-                              ("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon" !== o &&
+                              ("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc7313ade1f0febb9dec29e48d5302e679146c676" !== o &&
                                 (0, a.jsx)(v.default, {
-                                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc7313ade1f0febb9dec29e48d5302e679146c676",
                                   onClick: () => n(!1),
                                   children: (0, a.jsx)(j.A, {
                                     children: "Buy Now",
@@ -495,9 +495,9 @@
                                 }),
                             ],
                           })
-                        : ("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon" !== o &&
+                        : ("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc7313ade1f0febb9dec29e48d5302e679146c676" !== o &&
                             (0, a.jsx)(v.default, {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc7313ade1f0febb9dec29e48d5302e679146c676",
                               onClick: () => n(!1),
                               children: (0, a.jsx)(j.A, {
                                 children: "Buy Now",
@@ -567,7 +567,7 @@
                       (0, a.jsx)("div", {
                         className: C().footer_content_button,
                         children: (0, a.jsx)(v.default, {
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc7313ade1f0febb9dec29e48d5302e679146c676",
                           rel: "noopener noreferrer",
                           children: (0, a.jsx)(j.A, {
                             children: "Buy Now",
